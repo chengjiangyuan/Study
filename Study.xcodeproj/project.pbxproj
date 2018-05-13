@@ -81,6 +81,7 @@
 		B918226020A870630058D708 = {
 			isa = PBXGroup;
 			children = (
+				B918229E20A874400058D708 /* fenzhixuexi */,
 				B918226B20A870630058D708 /* Study */,
 				B918228420A870630058D708 /* StudyTests */,
 				B918228F20A870640058D708 /* StudyUITests */,
@@ -130,6 +131,13 @@
 				B918229220A870640058D708 /* Info.plist */,
 			);
 			path = StudyUITests;
+			sourceTree = "<group>";
+		};
+		B918229E20A874400058D708 /* fenzhixuexi */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = fenzhixuexi;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
